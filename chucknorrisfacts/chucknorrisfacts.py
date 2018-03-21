@@ -1,21 +1,12 @@
 # -*- coding: utf-8 -*-
 
-"""Main module
-@title           : ChuckNorrisFacts
-@description     : Print a random Chuck Norris Joke
-@author          : Jose R. Zapata
-@webpage         : joserzapata.github.io
-@date            : 20 March 2018
-
-Im using this script to learn how to make a python packages
-with cookiecutter 1.6.0
-https://github.com/audreyr/cookiecutter
-"""
+"""Main module"""
 from __future__ import print_function
 import json
 from requests import get
 
 def cnfacts():
+    """Display a random Chuck Norris Jokes"""
     url = 'https://api.chucknorris.io/jokes/random'
     datafull = get(url).text
     info = json.loads(datafull)
