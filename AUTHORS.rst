@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Jose R. Zapata <jjrzg@hotmail.com>
+* Jose R. Zapata <joserzapata.github.io>
 
 Contributors
 ------------

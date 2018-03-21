@@ -42,7 +42,7 @@ setup(
     license="MIT license",
     long_description=readme + '\n\n' + history,
     include_package_data=True,
-    keywords='chucknorrisfacts',
+    keywords=['chuck','norris','jokes'],
     name='chucknorrisfacts',
     packages=find_packages(include=['chucknorrisfacts']),
     setup_requires=setup_requirements,
