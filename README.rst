@@ -1,8 +1,6 @@
 ================
 ChuckNorrisFacts
 ================
-
-
 .. image:: https://img.shields.io/pypi/v/chucknorrisfacts.svg
         :target: https://pypi.python.org/pypi/chucknorrisfacts
 

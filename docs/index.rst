@@ -1,5 +1,5 @@
 Welcome to ChuckNorrisFacts's documentation!
-======================================
+============================================
 
 .. toctree::
    :maxdepth: 2
