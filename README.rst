@@ -26,7 +26,8 @@ This Package is an exercise to practice python packing based on the course
 
 Usage
 ------
-To use ChuckNorrisFacts in a project::
+To use ChuckNorrisFacts in a project
+::
     >>> from chucknorrisfacts.chucknorrisfacts import cnfacts
     >>> cnfacts()
     *** Chuck Norris Facts ***

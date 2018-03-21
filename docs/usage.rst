@@ -2,7 +2,8 @@
 Usage
 =====
 
-To use ChuckNorrisFacts in a project::
+To use ChuckNorrisFacts in a project
+::
     >>> from chucknorrisfacts.chucknorrisfacts import cnfacts
     >>> cnfacts()
     *** Chuck Norris Facts ***
