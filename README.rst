@@ -15,6 +15,11 @@ ChuckNorrisFacts
 
 Display a random Chuck Norris Jokes
 
+This Package is an exercise to practice python packing based on the course 
+`Creating and Distributing Python Packages`_ from courses.twoscoopspress.com_
+
+.. _Creating and Distributing Python Packages: https://courses.twoscoopspress.com/courses/creating-and-distributing-python-packages
+.. _courses.twoscoopspress.com: https://courses.twoscoopspress.com
 
 * Free software: MIT license
 * Documentation: https://chucknorrisfacts.readthedocs.io.
