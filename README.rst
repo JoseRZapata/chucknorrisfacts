@@ -13,11 +13,9 @@ ChuckNorrisFacts
 
 Display a random Chuck Norris Jokes
 
-This Package is an exercise to practice python packing based on the course 
-`Creating and Distributing Python Packages`_ from courses.twoscoopspress.com_
-
-.. _Creating and Distributing Python Packages: https://courses.twoscoopspress.com/courses/creating-and-distributing-python-packages
-.. _courses.twoscoopspress.com: https://courses.twoscoopspress.com
+This Package is an exercise to practice python packing based on the course
+`Creating and Distributing Python Packages <https://courses.twoscoopspress.com/courses/creating-and-distributing-python-packages>`_
+from `courses.twoscoopspress.com <https://courses.twoscoopspress.com>`_
 
 * Free software: MIT license
 * Documentation: https://chucknorrisfacts.readthedocs.io.
@@ -34,14 +32,9 @@ To use ChuckNorrisFacts in a project
 
 Other Pypi packages About Chuck Norris facts
 --------------------------------------------
-
-* chucknorris_
-* python-chuck-norris_
-* chuck-norris-python_
-
-.. _chucknorris: https://github.com/yougov/chucknorris
-.. _python-chuck-norris: https://github.com/ricobl/python-chuck-norris
-.. _chuck-norris-python: https://github.com/Keda87/chuck-norris-python
+* `chucknorris <https://github.com/yougov/chucknorris>`_
+* `python-chuck-norris <https://github.com/ricobl/python-chuck-norris>`_
+* `chuck-norris-python <https://github.com/Keda87/chuck-norris-python>`_
 
 Credits
 -------
