@@ -11,7 +11,7 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = ['Click>=6.0','requests>=2.18' ]
+requirements = ['Click>=6.0', 'requests>=2.18']
 
 setup_requirements = ['pytest-runner', ]
 
@@ -19,7 +19,7 @@ test_requirements = ['pytest', ]
 
 setup(
     author="Jose R. Zapata",
-    author_email='jjrzg@hotmail.com',
+    author_email='jjrzg@hotmail.com', 
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
@@ -42,7 +42,7 @@ setup(
     license="MIT license",
     long_description=readme + '\n\n' + history,
     include_package_data=True,
-    keywords=['chuck','norris','jokes'],
+    keywords=['chuck', 'norris', 'jokes'],
     name='chucknorrisfacts',
     packages=find_packages(include=['chucknorrisfacts']),
     setup_requires=setup_requirements,

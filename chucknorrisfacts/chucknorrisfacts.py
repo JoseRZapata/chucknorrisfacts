@@ -5,6 +5,7 @@ from __future__ import print_function
 import json
 from requests import get
 
+
 def cnfacts():
     """Display a random Chuck Norris Jokes"""
     url = 'https://api.chucknorris.io/jokes/random'

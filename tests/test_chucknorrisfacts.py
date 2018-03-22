@@ -36,3 +36,17 @@ def test_command_line_interface():
     help_result = runner.invoke(cli.main, ['--help'])
     assert help_result.exit_code == 0
     assert '--help  Show this message and exit.' in help_result.output
+
+def test_cnfacts(capsys):
+    """We use the capsys argument to capture printing to stdout."""
+    assert chucknorrisfacts.cnfacts() == None
+  
+    # Capture the result of the pyrobo.hablame() function call.
+    captured = capsys.readouterr()
+
+    # If we check captured, we can see that the ingredients have been printed.
+    assert "*** Chuck Norris Facts ***" in captured.out
+
+
+
+
