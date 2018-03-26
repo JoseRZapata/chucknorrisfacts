@@ -22,13 +22,22 @@ from courses.twoscoopspress.com (https://courses.twoscoopspress.com)
 
 Usage
 ------
-To use ChuckNorrisFacts in a project
+To use ChuckNorrisFacts in a python project:
 
-    >>> from chucknorrisfacts.chucknorrisfacts import cnfacts
-    >>> cnfacts()
-    *** Chuck Norris Facts ***
-    Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
-    ***
+.. code:: python
+
+    from chucknorrisfacts.chucknorrisfacts import cnfacts
+
+    cnfacts()
+
+Response example:
+
+\***Chuck Norris Facts***
+
+Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
+
+\***
+
 
 Other Pypi packages About Chuck Norris facts
 --------------------------------------------
