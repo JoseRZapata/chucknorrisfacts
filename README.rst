@@ -15,7 +15,7 @@ Display a random Chuck Norris Jokes
 
 I made this simple Package as an exercise to practice python packing for the course
 `Creating and Distributing Python Packages <https://courses.twoscoopspress.com/courses/creating-and-distributing-python-packages>`_
-from `courses.twoscoopspress.com <https://courses.twoscoopspress.com>`_)
+from `courses.twoscoopspress.com <https://courses.twoscoopspress.com>`_
 
 * Free software: MIT license
 * Documentation: https://chucknorrisfacts.readthedocs.io.
