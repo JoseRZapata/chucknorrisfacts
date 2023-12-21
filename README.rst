@@ -32,11 +32,10 @@ To use ChuckNorrisFacts in a python project:
 
 Response example:
 
-\***Chuck Norris Facts***
+**Chuck Norris Facts**
 
-Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
+  Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
 
-\***
 
 
 Other Pypi packages About Chuck Norris facts
