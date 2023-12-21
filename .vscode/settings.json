@@ -1,0 +1,15 @@
+{
+    "[python]": {
+        "editor.codeActionsOnSave": {
+          "source.fixAll.ruff": "explicit",
+          "source.organizeImports.ruff": "explicit",
+        },
+        "editor.formatOnSave": true,
+      },
+    // "ruff.format.args": ["--config=.code_quality/ruff.toml"],
+    "ruff.lint.args": ["--config=.code_quality/ruff.toml"],
+    "black-formatter.args": ["--config=.code_quality/.pyproject_black.toml"],
+    "mypy-type-checker.args": ["--config-file=.code_quality/mypy.ini"],
+    "ruff.organizeImports": true,
+    "python.linting.banditArgs": ["-c", ".code_quality/bandit.yaml"],
+}
